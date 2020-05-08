@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Robert Chen&#39;s Github page</title>
+    <link>http://roberChen.github.com/posts/</link>
+    <description>Recent content in Posts on Robert Chen&#39;s Github page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 08 May 2020 15:12:32 +0800</lastBuildDate>
+    
+	<atom:link href="http://roberChen.github.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Home</title>
+      <link>http://roberChen.github.com/posts/home/</link>
+      <pubDate>Fri, 08 May 2020 15:12:32 +0800</pubDate>
+      
+      <guid>http://roberChen.github.com/posts/home/</guid>
+      <description>This is Robert Chen&amp;rsquo;s site on Github No Post here, waiting for update</description>
+    </item>
+    
+  </channel>
+</rss>
